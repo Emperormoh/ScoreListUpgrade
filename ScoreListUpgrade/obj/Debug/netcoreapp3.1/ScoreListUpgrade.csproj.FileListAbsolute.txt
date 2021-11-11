@@ -1,0 +1,13 @@
+/Users/wemabank/Projects/ScoreListUpgrade/ScoreListUpgrade/bin/Debug/netcoreapp3.1/ScoreListUpgrade.deps.json
+/Users/wemabank/Projects/ScoreListUpgrade/ScoreListUpgrade/bin/Debug/netcoreapp3.1/ScoreListUpgrade.runtimeconfig.json
+/Users/wemabank/Projects/ScoreListUpgrade/ScoreListUpgrade/bin/Debug/netcoreapp3.1/ScoreListUpgrade.runtimeconfig.dev.json
+/Users/wemabank/Projects/ScoreListUpgrade/ScoreListUpgrade/bin/Debug/netcoreapp3.1/ScoreListUpgrade.dll
+/Users/wemabank/Projects/ScoreListUpgrade/ScoreListUpgrade/bin/Debug/netcoreapp3.1/ScoreListUpgrade.pdb
+/Users/wemabank/Projects/ScoreListUpgrade/ScoreListUpgrade/obj/Debug/netcoreapp3.1/ScoreListUpgrade.csproj.AssemblyReference.cache
+/Users/wemabank/Projects/ScoreListUpgrade/ScoreListUpgrade/obj/Debug/netcoreapp3.1/ScoreListUpgrade.GeneratedMSBuildEditorConfig.editorconfig
+/Users/wemabank/Projects/ScoreListUpgrade/ScoreListUpgrade/obj/Debug/netcoreapp3.1/ScoreListUpgrade.AssemblyInfoInputs.cache
+/Users/wemabank/Projects/ScoreListUpgrade/ScoreListUpgrade/obj/Debug/netcoreapp3.1/ScoreListUpgrade.AssemblyInfo.cs
+/Users/wemabank/Projects/ScoreListUpgrade/ScoreListUpgrade/obj/Debug/netcoreapp3.1/ScoreListUpgrade.csproj.CoreCompileInputs.cache
+/Users/wemabank/Projects/ScoreListUpgrade/ScoreListUpgrade/obj/Debug/netcoreapp3.1/ScoreListUpgrade.dll
+/Users/wemabank/Projects/ScoreListUpgrade/ScoreListUpgrade/obj/Debug/netcoreapp3.1/ScoreListUpgrade.pdb
+/Users/wemabank/Projects/ScoreListUpgrade/ScoreListUpgrade/obj/Debug/netcoreapp3.1/ScoreListUpgrade.genruntimeconfig.cache
